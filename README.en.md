@@ -3,4 +3,4 @@
 
 General activities carried out during the computer science course.
 ##### Pastas
-- [MS ER](https://github.com/MattNogueira/CS-Dia/tree/main/MS-ER): Entity-Relation Diagrams built in the subject Software Modeling. They're written in brazilian portuguese.
+- [MS ER](https://github.com/MattNogueira/CS-Dia/tree/main/MS-ER): Entity-Relation Diagrams built in the subject Software Modeling. Written in brazilian portuguese.
